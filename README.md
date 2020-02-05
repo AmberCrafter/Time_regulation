@@ -4,11 +4,11 @@
 聯絡方式: flamingm321@gmail.com<br>
 完成日期: 2020-02-05<br>
 <br>
-<#Function><br>
+<Function><br>
 對時序資料補齊缺漏，目前僅以','作為分隔<br>
 --<br>
 <br>
-<#Note><br>
+<Note><br>
 1. 運行環境: Win10 x64，已將相關連結庫打包<br>
 2. 程式根目錄位於 "./bin" 下<br>
 3. 請先完成設定檔 ./bin/config/config.json<br>
@@ -20,8 +20,8 @@
     f. resolution: 資料時間解析度，格式須為ket-value結構，ex. {"key":value}<br>
 --<br>
 <br>
-<#Change Log><br>
+<Change Log><br>
 --<br>
 <br>
-<#Quest List><br>
+<Quest List><br>
 --<br>
