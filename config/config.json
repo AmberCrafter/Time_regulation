@@ -1,0 +1,8 @@
+{
+    "input_filename":"./2018_lln_ae31_data_processed.csv",
+    "output_filename":"./2018_lln_ae31_data_processed.dat",
+    "starttime":"2018-01-01 00:00",
+    "endtime":"2019-01-01 00:00",
+    "formation":"%Y/%#m/%#d %H:%M",
+    "resolution":{"hours":1}
+}
