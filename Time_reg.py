@@ -35,6 +35,7 @@ f=open(filename,'r')
 ff=open(ffilename,'w')
 
 header=f.readline()
+ff.write(header)
 columnsNum=len(header.split(','))
 
 readin=f.readline()

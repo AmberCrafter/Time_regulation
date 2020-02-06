@@ -3,6 +3,7 @@
 作者: Wei-Ru Chen<br>
 聯絡方式: flamingm321@gmail.com<br>
 完成日期: 2020-02-05<br>
+Version: v1.0.1<br>
 <br>
 [Function]<br>
 對時序資料補齊缺漏，目前僅以','作為分隔<br>
@@ -21,6 +22,11 @@
 --<br>
 <br>
 [Change Log]<br>
+v1.0.1<br>
+1. Fixed the header row.<br>
+<br>
+v1.0.0<br>
+1. First published.<br>
 --<br>
 <br>
 [Quest List]<br>
